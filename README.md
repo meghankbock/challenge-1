@@ -1,7 +1,7 @@
 # challenge-1
 
 ## Summary
-The work herein takes existing codebase for the Horiseon website and refactors it to meet accessibility requirements.
+This repository contains updated codebase for the Horiseon website that has been refactored to meet accessibility requirements.
 
 ## Screenshots
 * Screenshot #1 ![Application Screenshot 1](https://github.com/meghankbock/challenge-1/blob/main/assets/images/Application-Screenshot-1.PNG)
